@@ -1,0 +1,2 @@
+1. Find duplicates within a range `k` in an array
+2. Count distinct absolute values in a sorted array
