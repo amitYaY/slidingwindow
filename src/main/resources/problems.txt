@@ -2,3 +2,4 @@
 2. Count distinct absolute values in a sorted array
 3. Print all maximum size subArrays of an array having distinct elements
 4. Find the count of distinct elements in every subArray of size `k`
+5. Find the smallest subArray length whose sum of elements is equal to `k`
