@@ -3,3 +3,6 @@
 3. Print all maximum size subArrays of an array having distinct elements
 4. Find the count of distinct elements in every subArray of size `k`
 5. Find the smallest subArray length whose sum of elements is equal to `k`
+6. Find the subArray length whose sum of elements is equal to `k`
+7. Find minimum sum subArray of given size k
+8. Find the maximum sequence of continuous 1’s that can be formed by replacing at-most k zeroes by ones
