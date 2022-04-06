@@ -7,7 +7,7 @@ public class SolutionService8 {
 
     public static void main(String[] args) {
         int[] A = {1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0};
-        int k = 1;
+        int k = 3;
         int res = findLongestSequence(A, k);
         System.out.println("Longest Sequence Size: "+res);
         System.out.println("Min Sum Array: ["+start+", "+end+"]");
@@ -38,7 +38,7 @@ public class SolutionService8 {
                 start = i;
                 end = j;
             }
-            System.out.println("Max: "+maxCount);
+            //System.out.println("Max: "+maxCount);
         }
         return maxCount;
     }
