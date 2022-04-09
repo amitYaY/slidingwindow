@@ -10,3 +10,4 @@
 10. Initiation Block Execution
 11. Longest substring of given string containing distinct characters
 12. Find all substrings of a string that are permutation of a given string
+13. Find the longest substring of a given string containing k distinct characters
