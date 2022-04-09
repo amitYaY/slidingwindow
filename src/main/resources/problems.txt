@@ -7,3 +7,6 @@
 7. Find minimum sum subArray of given size k
 8. Find the maximum sequence of continuous 1’s that can be formed by replacing at-most k zeroes by ones
 9. Find maximum length sequence of continuous ones (Using Sliding Window)
+10. Initiation Block Execution
+11. Longest substring of given string containing distinct characters
+12. Find all substrings of a string that are permutation of a given string
